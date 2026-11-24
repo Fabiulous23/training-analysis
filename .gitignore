@@ -221,3 +221,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Strava data
+data/
+*.fit
+*.fit.gz
+*.gpx
+*.gpx.gz
+*.tcx
+*.tcx.gz
+export_*.zip
